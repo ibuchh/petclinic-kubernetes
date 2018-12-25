@@ -1,4 +1,5 @@
-Fork of https://github.com/spring-petclinic/spring-petclinic-microservices
+# Instructions
 
-Build with `./kube-build.sh`
+Build and create docker images with `./kube-build.sh`
+
 Run with `./kube-up.sh`
